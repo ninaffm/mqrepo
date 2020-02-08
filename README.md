@@ -1,0 +1,2 @@
+# mqrepo
+IBM QMGR Repository
